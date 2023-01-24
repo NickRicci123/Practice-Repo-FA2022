@@ -1,27 +1,31 @@
-## Student Name (or name you would preferred to be called)
+## Nicholas Ricci
 
-### Fall 2022
+### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- ENT2112 
 
-- Course 2
+- BUL2241
 
-- Course 3
+- COP2073
 
-- Course 4
+- FIN2001
+
+- ECO2013
+
+- EGN3448
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Billiards
 
-- Thing 2
+- Biking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Chess as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
